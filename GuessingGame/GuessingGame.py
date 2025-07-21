@@ -37,6 +37,5 @@ while play_again == "y":
 
 print("Congrats you guessed it!")
 
-print("The number is: "), number
 
 play_again = input("Do you want to play again? y/n")
