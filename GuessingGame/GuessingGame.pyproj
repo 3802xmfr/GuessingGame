@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>88c19f39-43b9-478b-9bfc-fbf23f7bce9a</ProjectGuid>
+    <ProjectGuid>8431fbfc-3e40-4e29-95a3-cd7fae51666a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>GuessingGame.py</StartupFile>
     <SearchPath>
